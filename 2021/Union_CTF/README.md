@@ -3,11 +3,11 @@
     - Cr0wnair
     - Meet-The-Union
   - ## Crypto
-  - Human-Server
+  - [Human-Server](Human_Server.md)
   - Cr0wn sterling
   - ## PWN
     - Babyraf
   - ## Reversing
     - Epitaph
   - ## Misc
-    - Bashlexy
+    - [Bashlexy](Bashlexy.md)
