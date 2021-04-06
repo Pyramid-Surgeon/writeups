@@ -1,3 +1,3 @@
 # LineCTF
-* Your Note
-* Dive Internal
+* [Your Note](Your_Note.md)
+* [Dive Internal](Dive_Internal.md)
