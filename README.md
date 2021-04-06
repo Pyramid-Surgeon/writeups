@@ -1,4 +1,3 @@
-# Writeups
 - ## 2021
   - ## Union CTF
     - Cr0wnair
