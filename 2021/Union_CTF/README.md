@@ -1,13 +1,10 @@
 # Union CTF
   - ## Web
-    - Cr0wnair
     - [Meet-The-Union](Meet_The_Union.md)
   - ## Crypto
   - [Human-Server](Human_Server.md)
   - Cr0wn sterling
   - ## PWN
     - Babyraf
-  - ## Reversing
-    - Epitaph
   - ## Misc
     - [Bashlexy](Bashlexy.md)
